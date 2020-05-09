@@ -1,8 +1,7 @@
 import React from 'react'
 import './Address.css';
 
-
-export default function Address() {
+const Address = () => {
     return (
 
         <React.Fragment>
@@ -13,3 +12,5 @@ export default function Address() {
         </React.Fragment>
     )
 }
+
+export default 
